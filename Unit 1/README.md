@@ -1,2 +1,2 @@
-# AI-SC
-# This Repository Contains Notes for Artificial Intelligence and Soft Computing by Krantee Jamdaade of Hiray College 
+# AI-SC Lecture-1
+# Please refer youtube links for this tutorial
